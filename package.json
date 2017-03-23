@@ -1,0 +1,24 @@
+{
+  "name": "clean-assets-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Delete unused assets after every webpack build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenHoustonLudvigsen/clean-assets-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "clean"
+  ],
+  "author": "Morten Houston Ludvigsen <mlu@2ps.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MortenHoustonLudvigsen/clean-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/MortenHoustonLudvigsen/clean-assets-webpack-plugin#readme"
+}
